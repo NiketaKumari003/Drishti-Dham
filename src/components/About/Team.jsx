@@ -9,8 +9,8 @@ function Team() {
       People who made it successful
     </h2>
     <p class="mx-auto mt-4 max-w-2xl text-gray-600 md:text-xl">
-      Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ullam reiciendis
-      a vel error explicabo voluptatum nihil possimus veritatis eos culpa.
+    The team's attention to detail is unparalleled. They have managed to create a website that is both aesthetically pleasing and functionally robust.
+     Drishti Dham is a testament to their hard work and talent.
     </p>
   </div>
   <div class="mt-8 grid grid-cols-1 gap-6 md:grid-cols-2 lg:grid-cols-4">
